@@ -1,2 +1,4 @@
-<?php  
+<?php 
+echo "Meu Mundo"
 ?>
+
